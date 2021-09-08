@@ -50,7 +50,7 @@
                 android:id="@+id/textViewA"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="About Watch and Earn:"
+                android:text="About :"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                 android:textColor="@android:color/black" />
 
@@ -58,7 +58,7 @@
                 android:id="@+id/textViewAi"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Watch and earn is a free app which lets all its users watch the ads and money in return. We display different types of ads and provide rewards accordingly. Users also get some rewards on daily basis." />
+                android:text="@string/aboutDetails" />
 
             <View
                 android:layout_width="match_parent"

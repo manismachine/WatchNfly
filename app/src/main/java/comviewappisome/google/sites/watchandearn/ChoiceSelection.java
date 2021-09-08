@@ -205,7 +205,7 @@ public class ChoiceSelection extends AppCompatActivity implements NavigationView
         } else if (id == R.id.nav_share) {
             Intent shareIt = new Intent(Intent.ACTION_SEND);
             shareIt.setType("text/plain");
-            String body = "Hey there, try this new app to make easy money. Watch and earn is a free app which pays users just to watch ads. Not just that, it also gives you bonuses everyday. Click this link to download it - https://bit.ly/2R2risM";
+            String body = "Hey there, try this new app to make easy money. "+R.string.app_name+" is a free app which pays users just to watch ads. Not just that, it also gives you bonuses everyday. Click this link to download it - https://bit.ly/2R2risM";
             shareIt.putExtra(Intent.EXTRA_TEXT, body);
             startActivity(Intent.createChooser(shareIt, "Share using"));
         } else if (id == R.id.nav_rate) {
@@ -214,7 +214,7 @@ public class ChoiceSelection extends AppCompatActivity implements NavigationView
             startActivity(intent);
         } else if (id == R.id.nav_contact) {
             Intent contact = new Intent(Intent.ACTION_SENDTO);
-            contact.setData(Uri.parse("mailto:appisomelabs@gmail.com"));
+            contact.setData(Uri.parse("mailto:publicprivacypirates@gmail.com"));
             startActivity(contact);
         }
 
