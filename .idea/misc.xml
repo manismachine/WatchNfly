@@ -4,6 +4,21 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/user38/Downloads/Watch-and-Earn/app/src/main/res/layout/activity_about.xml" value="0.365625" />
+        <entry key="..\:/_research/Watchnfly/app/src/main/res/layout/activity_about.xml" value="0.31979166666666664" />
+        <entry key="..\:/_research/Watchnfly/app/src/main/res/layout/activity_choice_selection.xml" value="0.23697916666666666" />
+        <entry key="..\:/_research/Watchnfly/app/src/main/res/layout/activity_daily_checkins.xml" value="0.31979166666666664" />
+        <entry key="..\:/_research/Watchnfly/app/src/main/res/layout/activity_history.xml" value="0.31979166666666664" />
+        <entry key="..\:/_research/Watchnfly/app/src/main/res/layout/activity_instructions.xml" value="0.31979166666666664" />
+        <entry key="..\:/_research/Watchnfly/app/src/main/res/layout/activity_lucky_wheel.xml" value="0.31979166666666664" />
+        <entry key="..\:/_research/Watchnfly/app/src/main/res/layout/activity_redeem.xml" value="0.31979166666666664" />
+        <entry key="..\:/_research/Watchnfly/app/src/main/res/layout/activity_redeem_amazon_pay.xml" value="0.31979166666666664" />
+        <entry key="..\:/_research/Watchnfly/app/src/main/res/layout/activity_redeem_gpay.xml" value="0.31979166666666664" />
+        <entry key="..\:/_research/Watchnfly/app/src/main/res/layout/activity_redeem_pay_tm.xml" value="0.31979166666666664" />
+        <entry key="..\:/_research/Watchnfly/app/src/main/res/layout/activity_redeem_phone_pe.xml" value="0.31979166666666664" />
+        <entry key="..\:/_research/Watchnfly/app/src/main/res/layout/activity_splash_screen.xml" value="0.23697916666666666" />
+        <entry key="..\:/_research/Watchnfly/app/src/main/res/layout/app_bar_choice_selection.xml" value="0.31979166666666664" />
+        <entry key="..\:/_research/Watchnfly/app/src/main/res/layout/content_choice_selection.xml" value="0.31979166666666664" />
+        <entry key="..\:/_research/Watchnfly/app/src/main/res/layout/nav_header_choice_selection.xml" value="0.31979166666666664" />
         <entry key="..\:/_research/Watchnfly/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
       </map>
     </option>
